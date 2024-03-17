@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+<!-- Nombre del canal de notificación -->
+<string name="channel_name">Nombre del Canal</string>
+
+<!-- Descripción del canal de notificación -->
+<string name="channel_description">Descripción del canal</string>
+    <string name="subir_receta">Subir Receta</string>
+    <string name="exportar" >Exportar</string>
+</resources>
