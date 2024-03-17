@@ -6,7 +6,7 @@
     <item
     android:id="@+id/subirReceta"
     android:title="@string/subir_receta"
-    android:icon="@drawable/anadir_transparent"
+    android:icon="@drawable/anadir"
     app:showAsAction="always"
     />
 
